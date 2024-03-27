@@ -28,7 +28,7 @@ python goudai.py
 
 ## Acknowledgements
 
-This code is inspired by and heavily modified from the [AI Journalist](https://github.com/mshumer/ai-journalist) project by [mshumer](https://github.com/mshumer). Errors from the original code have been fixed and additional functionality has been added.
+This code is inspired by and heavily modified from a project by [mshumer](https://github.com/mshumer). Errors from the original code have been fixed and additional functionality has been added.
 
 ## License
 
